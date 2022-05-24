@@ -4,7 +4,7 @@ Norton.com/setup | Download Norton Setup | Activate Norton Antivirus
 
 
 ##################
-Download Norton Antivius Using Norton.com/setup
+`Download Norton Antivirus <http://norton.com.setup.s3-website-us-west-1.amazonaws.com>`_ Using `Norton.com/setup <http://norton.com.setup.s3-website-us-west-1.amazonaws.com>`_
 ##################
 
 
